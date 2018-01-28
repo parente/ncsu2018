@@ -11,5 +11,5 @@ In this talk, I will outline the motivation and history of the project, give liv
 The Binder environment includes the following sources for demonstration purposes. See each link below for license terms.
 
 * https://github.com/jupyterlab/jupyterlab-demo
-* https://github.com/jupyter-widgets/ipywidgets.git
-* https://github.com/jakevdp/PythonDataScienceHandbook.git
+* https://github.com/jupyter-widgets/ipywidgets
+* https://github.com/jakevdp/PythonDataScienceHandbook
