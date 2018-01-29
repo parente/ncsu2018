@@ -9,3 +9,5 @@ RUN jupyter labextension install @jupyterlab/fasta-extension@0.13 --no-build && 
     jupyter labextension install @jupyter-widgets/jupyterlab-manager@0.31 --no-build && \
     jupyter lab clean && \
     jupyter lab build
+
+COPY . /home/jovyan/
