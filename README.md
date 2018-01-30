@@ -8,7 +8,13 @@ In this talk, I will outline the motivation and history of the project, give liv
 
 ## Attribution
 
-The Binder environment includes the following sources for demonstration purposes. See each link below for license terms.
+The presentation in this repository is based on the following materials by their respective authors:
+
+* https://github.com/willingc/talk-jupyterhub-jupytercon-2017
+* https://speakerdeck.com/fperez/keynote-for-jupytercon-2017-in-nyc
+* https://github.com/jupyterlab/jupyterlab-demo
+
+The Binder environment populated by this repository includes notebooks and data from the following sources:
 
 * https://github.com/jupyterlab/jupyterlab-demo
 * https://github.com/jupyter-widgets/ipywidgets
